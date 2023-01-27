@@ -516,3 +516,14 @@ The item is already contained in the list!<=>Este elemento ya está en la Lista!
 # Text View
 
 Copy Link Address<=>Copiar la dirección/enlace
+
+# 07/10/2022
+
+Sign-in completed successfully.<=>
+Result<=>
+Error<=>
+Sign-in failed.<=>
+View E&xternally...<=>
+Save this email to a temporary file with extension eml and open it.{BR}View externally<=>
+Change font.{BR}Font<=>
+Failed to open message file. Make sure that files with extension 'eml' will be opened by an email viewer, e.g. Thunderbird Portable.<=>

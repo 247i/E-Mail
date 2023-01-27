@@ -1,7 +1,7 @@
 
 PopMan - a Windows POP3 and IMAP4 manager
 
-Copyright (C) 2002-2019 Christian Hübner (chuebner@ch-software.de)
+Copyright (C) 2002-2022 Christian Hübner (chuebner@ch-software.de)
 All Rights Reserved.
 
 This program is free software; you can redistribute it and/or
