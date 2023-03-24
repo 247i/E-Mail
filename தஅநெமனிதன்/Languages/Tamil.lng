@@ -3,517 +3,231 @@
 Language=Tamil
 Author=தமிழ்நேரம்
 Email=Anishprabu.t@gmail.com
-Date=01/28/2023
-Comment=PopMan 1.3.8 Tamil Translation
+Date=03/24/2023
+Comment=PopMan 1.3.8 தமிழ் மொழிபெயர்ப்பு 
 LangID=73
 
 
 [Translations]
 
-Not connected<=>
-Connection failure<=>
-Canceled<=>
-Invalid server response<=>
-Timeout<=>
-Login failed<=>
-Message not found<=>
-Server failure: Message not found!<=>
-Busy<=>
-Ready<=>
-Connecting...<=>
-Connected!<=>
-Login...<=>
-Successfully logged in!<=>
-Loading message ...<=>
-Loading message {1} of {2} ...<=>
-Deleting message {1} of {2} ...<=>
-Marking message {1} of {2} as seen...<=>
+Not connected<=>இணைக்கப்படவில்லை
+Connection failure<=>இணைப்பு தோல்வி
+Canceled<=>ரத்து செய்யப்பட்டது
+Invalid server response<=>தவறான சேவையக பதில்
+Timeout<=>நேரம் முடிந்தது
+Login failed<=>உள்நுழைவு தோல்வியடைந்தது
+Message not found<=>செய்தி கிடைக்கவில்லை
+Server failure: Message not found!<=>சர்வர் தோல்வி: செய்தி கிடைக்கவில்லை!
+Busy<=>பிஸி
+Ready<=>தயார்
+Connecting...<=>இணைக்கிறது...
+Connected!<=>இணைக்கப்பட்டது!
+Login...<=>உள்நுழைக...
+Successfully logged in!<=>உள்நுழைந்துள்ளீர்கள்!
+Loading message ...<=>செய்தியை ஏற்றுகிறது ...
+Loading message {1} of {2} ...<=>செய்தியை ஏற்றுகிறது {1} / {2} ...
+Deleting message {1} of {2} ...<=>{2} ...<=> இல் {1} செய்தியை நீக்குகிறது
+Marking message {1} of {2} as seen...<=>{2} இல் {1} செய்தியை பார்த்ததாகக் குறிக்கிறது...
 
-# Update Wizard
+# புதுப்பிப்பு வழிகாட்டி
 
-Update Wizard<=>
-There are no updates available.<=>
-There is a new version {1} available!<=>
-There is a new {1} Beta version available!<=>
-Click "Next" to update your copy of PopMan...<=>
-Unable to retrieve version infomation!<=>
-Error number: {1}<=>
-Welcome to the PopMan Update Wizard<=>
-The wizard is now connecting to the PopMan webserver checking for updates. If there is a new version available, all necessary files can be downloaded and installed automatically.<=>
-Failed to load Decompress.dll!<=>
-Initializing...<=>
-Do you really want to cancel the update process?<=>
-Update process failed!<=>
-Error while downloading initialization file!<=>
-No updates available.<=>
-Failed to retrieve temporary directory!<=>
-Saving {1} ...<=>
-Failed to create directory:<=>
-Failed to decompress file:<=>
-Failed to download file:<=>
-(checksum error)<=>
-Please try again later.<=>
-Error while saving downloaded file!<=>
-All files downloaded successfully.<=>
-Press the "Finish" button to complete the update process...<=>
-Failed to initialize the final copy process!<=>
-Downloading {1} ...<=>
-Progress all:<=>
-Progress current file:<=>
-Download of updated files<=>
+Update Wizard<=>வழிகாட்டியைப் புதுப்பிக்கவும்
+There are no updates available.<=>புதுப்பிப்புகள் எதுவும் இல்லை.
+There is a new version {1} available!<=>புதிய பதிப்பு {1} கிடைக்கிறது!
+There is a new {1} Beta version available!<=>புதிய {1} பீட்டா பதிப்பு உள்ளது!
+Click "Next" to update your copy of PopMan...<=>உங்கள் PopMan இன் நகலைப் புதுப்பிக்க "அடுத்து" என்பதைக் கிளிக் செய்யவும்...
+Unable to retrieve version infomation!<=>பதிப்புத் தகவலைப் பெற முடியவில்லை!
+Error number: {1}<=>பிழை எண்: {1}
+Welcome to the PopMan Update Wizard<=>PopMan புதுப்பிப்பு வழிகாட்டிக்கு வரவேற்கிறோம்
+The wizard is now connecting to the PopMan webserver checking for updates. If there is a new version available, all necessary files can be downloaded and installed automatically.<=>வழிகாட்டி இப்போது புதுப்பிப்புகளைச் சரிபார்க்கும் பாப்மேன் வெப்சர்வருடன் இணைக்கிறது. புதிய பதிப்பு இருந்தால், தேவையான அனைத்து கோப்புகளும் தானாகவே பதிவிறக்கம் செய்யப்பட்டு நிறுவப்படும்.
+Failed to load Decompress.dll!<=>Decompress.dll ஐ ஏற்ற முடியவில்லை!
+Initializing...<=>துவக்குகிறது...
+Do you really want to cancel the update process?<=>புதுப்பிப்பு செயல்முறையை ரத்து செய்ய விரும்புகிறீர்களா?
+Update process failed!<=>புதுப்பித்தல் செயல்முறை தோல்வியடைந்தது!
+Error while downloading initialization file!<=>துவக்கக் கோப்பைப் பதிவிறக்குவதில் பிழை!
+No updates available.<=>புதுப்பிப்புகள் இல்லை.
+Failed to retrieve temporary directory!<=>தற்காலிக கோப்பகத்தை மீட்டெடுப்பதில் தோல்வி!
+Saving {1} ...<=>{1} ...<=> சேமிக்கிறது
+Failed to create directory:<=>கோப்பகத்தை உருவாக்குவதில் தோல்வி:
+Failed to decompress file:<=>கோப்பை நீக்குவதில் தோல்வி:
+Failed to download file:<=>கோப்பைப் பதிவிறக்குவதில் தோல்வி:
+(checksum error)<=>(செக்சம் பிழை)
+Please try again later.<=>பிறகு முயற்சிக்கவும்.
+Error while saving downloaded file!<=>பதிவிறக்கம் செய்யப்பட்ட கோப்பைச் சேமிப்பதில் பிழை!
+All files downloaded successfully.<=>எல்லா கோப்புகளும் வெற்றிகரமாக பதிவிறக்கம் செய்யப்பட்டன.
+Press the "Finish" button to complete the update process...<=>புதுப்பிப்பு செயல்முறையை முடிக்க "முடி" பொத்தானை அழுத்தவும்...
+Failed to initialize the final copy process!<=>இறுதி நகல் செயல்முறையைத் தொடங்குவதில் தோல்வி!
+Downloading {1} ...<=>பதிவிறக்குகிறது {1} ...
+Progress all:<=>அனைத்தையும் முன்னேற்று:
+Progress current file:<=>தற்போதைய கோப்பு முன்னேற்றம்:
+Download of updated files<=>புதுப்பிக்கப்பட்ட கோப்புகளைப் பதிவிறக்கவும்
 
-# Import Accounts Dialog
+# இறக்குமதி கணக்குகள் உரையாடல்
 
-Account<=>
-Type<=>
-User<=>
-Server<=>
-Port<=>
-Please select the accounts that you want to import from Outlook Express.<=>
-&Properties...<=>
-OK<=>
-Cancel<=>
-Import email accounts<=>
-Description<=>
+Account<=>கணக்கு
+Type<=>வகை
+User<=>பயனர்
+Server<=>சேவையகம்
+Port<=>போர்ட்
+Please select the accounts that you want to import from Outlook Express.<=>Outlook Express இலிருந்து நீங்கள் இறக்குமதி செய்ய விரும்பும் கணக்குகளைத் தேர்ந்தெடுக்கவும்.
+&Properties...<=>&பண்புகள்...
+OK<=>சரி
+Cancel<=>ரத்து செய்
+Import email accounts<=>மின்னஞ்சல் கணக்குகளை இறக்குமதி செய்யவும்
+Description<=>விளக்கம்
 
-# Account Dialog
+# கணக்கு உரையாடல்
 
-General<=>
-Colors<=>
-Advanced<=>
-Can not change account settings while there are busy accounts.<=>
-Please enter the address of the Server!<=>
-Please enter the account name!<=>
-Please enter user name!<=>
-Account name:<=>
-Protocol:<=>
-Server:<=>
-Port:<=>
-User name:<=>
-Password:<=>
-Include this account when receiving mail<=>
-1 minute<=>
-{1} minutes<=>
-1 second<=>
-{1} seconds<=>
-Use UIDL when deleting messages<=>
-Use custom AutoCheck timer interval<=>
-Timer interval:<=>
-minutes<=>
-Server Timeouts<=>
-Short<=>
-Long<=>
-Load all emails completely<=>
-Retrieve header and {1} lines of message body<=>
-Number of lines:<=>
-Load small emails completely<=>
-Small emails are < <=>
-Parameters<=>
-Use individual font color:<=>
-Circle color in system tray:<=>
-Invalid parameter string!<=>
-Default<=>
+General<=>பொது
+Colors<=>நிறங்கள்
+Advanced<=>மேம்பட்ட
+Can not change account settings while there are busy accounts.<=>பிஸியான கணக்குகள் இருக்கும்போது கணக்கு அமைப்புகளை மாற்ற முடியாது.
+Please enter the address of the Server!<=>சேவையகத்தின் முகவரியை உள்ளிடவும்!
+Please enter the account name!<=>கணக்கு பெயரை உள்ளிடவும்!
+Please enter user name!<=>பயனர் பெயரை உள்ளிடவும்!
+Account name:<=>கணக்கு பெயர்:
+Protocol:<=>நெறிமுறை:
+Server:<=>சேவையகம்:
+Port:<=>துறைமுகம்:
+User name:<=>பயனர் பெயர்:
+Password:<=>கடவுச்சொல்:
+Include this account when receiving mail<=>அஞ்சலைப் பெறும்போது இந்தக் கணக்கைச் சேர்க்கவும்
+1 minute<=>1 நிமிடம்
+{1} minutes<=>{1} நிமிடங்கள்
+1 second<=>1 வினாடி
+{1} seconds<=>{1} வினாடிகள்
+Use UIDL when deleting messages<=>செய்திகளை நீக்கும் போது UIDL ஐப் பயன்படுத்தவும்
+Use custom AutoCheck timer interval<=>தனிப்பயன் தானியங்குச் சரிபார்ப்பு டைமர் இடைவெளியைப் பயன்படுத்தவும்
+Timer interval:<=>டைமர் இடைவெளி:
+minutes<=>நிமிடங்கள்
+Server Timeouts<=>சர்வர் டைம்அவுட்கள்
+Short<=>குறுகிய
+Long<=>நீளம்
+Load all emails completely<=>எல்லா மின்னஞ்சல்களையும் முழுமையாக ஏற்றவும்
+Retrieve header and {1} lines of message body<=>செய்தி உள்ளடக்கத்தின் தலைப்பு மற்றும் {1} வரிகளை மீட்டெடுக்கவும்
+Number of lines:<=>வரிகளின் எண்ணிக்கை:
+Load small emails completely<=>சிறிய மின்னஞ்சல்களை முழுமையாக ஏற்றவும்
+Small emails are < <=>சிறிய மின்னஞ்சல்கள் < 
+Parameters<=>அளவுருக்கள்
+Use individual font color:<=>தனிப்பட்ட எழுத்துரு வண்ணத்தைப் பயன்படுத்தவும்:
+Circle color in system tray:<=>கணினி தட்டில் வட்டத்தின் நிறம்:
+Invalid parameter string!<=>தவறான அளவுரு சரம்!
+Default<=>இயல்புநிலை
 
-# Accounts Dialog
+# கணக்கு உரையாடல்
 
-Mail Accounts<=>
-&Add...<=>
-&Remove<=>
-Move &up<=>
-Move &down<=>
-&Close<=>
+Mail Accounts<=>அஞ்சல் கணக்குகள்
+&Add...<=>&சேர்...
+&Remove<=>&நீக்கு
+Move &up<=>&மேலே<=> நகர்த்தவும்
+Move &down<=>&கீழே<=> நகர்த்தவும்
+&Close<=>&மூடு
 
-# Download Dialog
+# பதிவிறக்கம் உரையாடல்
 
-Loading the following mail:<=>
-Loading Mail...<=>
+Loading the following mail:<=>பின்வரும் மின்னஞ்சலை ஏற்றுகிறது:
+Loading Mail...<=>அஞ்சலை ஏற்றுகிறது...
 
-# BlackList/WhiteList Dialog
+# கருப்பு பட்டியல்/வெள்ளைப் பட்டியல் உரையாடல்
 
-Black List<=>
-Messages from senders in the list below will be deleted automatically from the server.<=>
-White List<=>
-Messages from senders in the list below will never be deleted automatically.<=>
-Address:<=>
-Please enter the email address (e.g. somebody@somewhere.com) or the domain (e.g. somewhere.com):<=>
-Enter address<=>
+Black List<=>கருப்பு பட்டியல்
+Messages from senders in the list below will be deleted automatically from the server.<=>கீழே உள்ள பட்டியலில் உள்ள அனுப்புநர்களிடமிருந்து வரும் செய்திகள் சர்வரிலிருந்து தானாக நீக்கப்படும்.
+White List<=>வெள்ளைப் பட்டியல்
+Messages from senders in the list below will never be deleted automatically.<=>கீழே உள்ள பட்டியலில் உள்ள அனுப்புநர்களிடமிருந்து வரும் செய்திகள் தானாக நீக்கப்படாது.
+Address:<=>முகவரி:
+Please enter the email address (e.g. somebody@somewhere.com) or the domain (e.g. somewhere.com):<=>மின்னஞ்சல் முகவரியை உள்ளிடவும் (எ.கா. somebody@somewhere.com) அல்லது டொமைன் (எ.கா. somewhere.com):
+Enter address<=>முகவரியை உள்ளிடவும்
 
-# Password Dialog
+# கடவுச்சொல் உரையாடல்
 
-Password - {1}<=>
-Enter the password of the following account.<=>
-Account:<=>
-Remember password<=>
-Password incorrect! Please note that the password is case-sensitive.<=>
-Please enter the password.<=>
+Password - {1}<=>கடவுச்சொல் - {1}
+Enter the password of the following account.<=>பின்வரும் கணக்கின் கடவுச்சொல்லை உள்ளிடவும்.
+Account:<=>கணக்கு:
+Remember password<=>கடவுச்சொல்லை நினைவில் கொள்க
+Password incorrect! Please note that the password is case-sensitive.<=>கடவுச்சொல் தவறானது! கடவுச்சொல் கேஸ்-சென்சிட்டிவ் என்பதை நினைவில் கொள்ளவும்.
+Please enter the password.<=>கடவுச்சொல்லை உள்ளிடவும்.
 
-# Add item to Rules list Dialog
+# விதிகள் பட்டியல் உரையாடலில் உருப்படியைச் சேர்க்கவும்
 
-Add item to Rules list<=>
-Destination List<=>
-New Item<=>
-Item Type<=>
-Word<=>
-String<=>
-Regular Expression<=>
+Add item to Rules list<=>விதிகள் பட்டியலில் உருப்படியைச் சேர்க்கவும்
+Destination List<=>சேருமிடப் பட்டியல்
+New Item<=>புதிய உருப்படி
+Item Type<=>பொருள் வகை
+Word<=>வார்த்தை
+String<=>சரம்
+Regular Expression<=>வழக்கமான வெளிப்பாடு
 
-# Save Dialog
+# உரையாடலைச் சேமிக்கவும்
 
-Please specify where to save the emails.<=>
-The specified folder does not exist!<=>
-Please specify a template for the file names.<=>
-A file name must not contain any of the following characters:<=>
-Invalid template! Use a combination of the following placeholders:<=>
-Subject<=>
-From<=>
-To<=>
-Date<=>
-Time<=>
-Save As...<=>
-Destination<=>
-Folder:<=>
-Browse...<=>
-Save Format<=>
-Template For File Names<=>
-Email File (*.eml)<=>
-Text File (*.txt)<=>
+Please specify where to save the emails.<=>மின்னஞ்சல்களை எங்கு சேமிக்க வேண்டும் என்பதைக் குறிப்பிடவும்.
+The specified folder does not exist!<=>குறிப்பிட்ட கோப்புறை இல்லை!
+Please specify a template for the file names.<=>கோப்பு பெயர்களுக்கான டெம்ப்ளேட்டைக் குறிப்பிடவும்.
+A file name must not contain any of the following characters:<=>ஒரு கோப்பு பெயரில் பின்வரும் எழுத்துகள் எதுவும் இருக்கக்கூடாது:
+Invalid template! Use a combination of the following placeholders:<=>தவறான டெம்ப்ளேட்! பின்வரும் ஒதுக்கிடங்களின் கலவையைப் பயன்படுத்தவும்:
+Subject<=>பொருள்
+From<=>இலிருந்து
+To<=>செய்ய
+Date<=>தேதி
+Time<=>நேரம்
+Save As...<=>இவ்வாறு சேமி...
+Destination<=>இலக்கு
+Folder:<=>கோப்புறை:
+Browse...<=>உலாவவும்...
+Save Format<=>வடிவமைப்பைச் சேமிக்கவும்
+Template For File Names<=>கோப்பு பெயர்களுக்கான டெம்ப்ளேட்
+Email File (*.eml)<=>மின்னஞ்சல் கோப்பு (*.eml)
+Text File (*.txt)<=>உரை கோப்பு (*.txt)
 
-# Options Dialog
+# விருப்பங்கள் உரையாடல்
 
-The file "{1}" doesn't exist!<=>
-Sound (*.wav)<=>
-Notify when new mail arrives<=>
-Always<=>
-When AutoChecked or minimized<=>
-Only when minimized<=>
-On new mail<=>
-Acoustic notification<=>
-Sound:<=>
-&Test<=>
-Show PopMan window<=>
-Show new mail tip<=>
-Limit tips to [PROTECTED] messages<=>
-Include sender and subject of new mails<=>
-Use balloon tip<=>
-Flash keyboard light:<=>
-Unread Messages<=>
-Display unread messages in bold font<=>
-Preview Pane<=>
-Use the preview pane to quickly view a message without opening a separate window.<=>
-Show preview pane<=>
-Be&low messages<=>
-Be&side messages<=>
-Use logging to record all data communication between PopMan and the email server.<=>
-Enable logging<=>
-Only log compact mail info instead of entire data traffic<=>
-Log file size:<=>
-KB<=>
-Enable logging of applied rules<=>
-Location of the log file "PopManLogFile.log":<=>
-Use dial-up networking<=>
-Launch PopMan on Windows startup<=>
-Check for new mail on startup<=>
-First wait<=>
-seconds<=>
-X button hides to tray<=>
-Min button hides to tray<=>
-Delete confirmation in main window<=>
-Delete confirmation in preview pane and message window<=>
-Delete command marks message for deletion<=>
-Enable password protection:<=>
-AutoCheck only while minimized<=>
-Don't check between:<=>
-and<=>
-Enable custom AutoCheck interval per account:<=>
-Interval<=>
-Custom<=>
-Executable (*.exe)<=>
-Hide PopMan to tray<=>
-Quit PopMan<=>
-Email client:<=>
-When launching email client:<=>
-When replying<=>
-Use temporary eml file (Outlook Express)<=>
-Use mailto (without quotted original message)<=>
-Use MAPI<=>
-Use HTML linebreaks in reply body<=>
-Enforce email address (Yahoo! Mail)<=>
-Launch email client with command line parameter:<=>
-Number of messages<=>
-Show number of messages in tray icon<=>
-Show number of all messages<=>
-Show number of unread messages<=>
-Show number of new messages<=>
-Rotate icon for each account<=>
-Rotation interval:<=>
-tenths of a second<=>
-Show advanced account info<=>
-Enable HighColor icons in system tray<=>
-Nothing<=>
-Show Window<=>
-Check Mail<=>
-PopUp Menu<=>
-Run Email Client<=>
-Check And Show<=>
-Toggle Window<=>
-Toggle AutoCheck<=>
-Show Mail Info<=>
-Tray Mouse Actions<=>
-Left Click:<=>
-Right Click:<=>
-Middle Click:<=>
-Double Click:<=>
-Double click delay on click<=>
-Below you can choose between the translations currently on your system.{BR}If you don't find your language, please visit the PopMan web site:<=>
-Language:<=>
-Author:<=>
-Email:<=>
-Updated:<=>
-Comment:<=>
-
-# Source Dialog
-
-RichEdit control init failed.<=>
-Source - "{1}"<=>
-The log file "{1}" could not be opened.{BR}Logging disabled!<=>
-Error while writing to the log file:<=>
-Logging disabled!<=>
-[PROTECTED]<=>
-
-# List View
-
-Size<=>
-Received<=>
-Attachment<=>
-Sent<=>
-Priority<=>
-UserAgent<=>
-Rules<=>
-High<=>
-Low<=>
-Normal<=>
-Are you sure you want to delete the selected email?<=>
-Are you sure you want to delete the {1} selected emails?<=>
-&Open...{TAB}Ctrl+O<=>
-Sou&rce...<=>
-&Save As...{TAB}Ctrl+S<=>
-Repl&y To Sender{TAB}Ctrl+R<=>
-&Trust Sender<=>
-&Block Sender<=>
-&Delete{TAB}Del<=>
-&Unmark{TAB}Ins<=>
-To&ggle [PROTECTED] State{TAB}Ctrl+T<=>
-Mark As Seen On Server{TAB}F8<=>
-This will add the following email addresses to the Black List:<=>
-Note: All future emails from senders on the Black List will be deleted automatically!<=>
-This will add the following email addresses to the White List:<=>
-
-# Main Window
-
-Empty Trash<=>
-Options<=>
-AutoCheck<=>
-Notification<=>
-Email Client<=>
-View<=>
-Tray Icon<=>
-Language<=>
-Mouse Actions<=>
-Logging<=>
-&File<=>
-&Accounts...<=>
-&Update{TAB}F5<=>
-&Cancel{TAB}Esc<=>
-Delete &Marked Emails{TAB}F12<=>
-&Exit<=>வெளியேறு
-&View<=>
-&Toolbar<=>
-&Statusbar<=>
-&Hide Marked Messages<=>
-Move Marked Messages to Tr&ash Tab<=>
-Tab &View{TAB}Ctrl+M<=>
-&Tools<=>&கருவிகள்
-&Font...<=>
-Font &Color...<=>
-&Themes<=>
-Launch &Email Client{TAB}Ctrl+E<=>
-&Import Accounts...<=>
-&White List...<=>
-&Black List...<=>
-&Rules...<=>
-Add Item To Rules &List...{TAB}F9<=>
-&Options<=>&விருப்பங்கள்
-&Help<=>&உதவி
-&Help Topics...{TAB}F1<=>
-Check For &Updates<=>
-&About PopMan...<=>
-Edit email accounts.{BR}Accounts<=>
-Update email listing.{BR}Update<=>
-Cancel current operation.{BR}Cancel<=>
-Show email content.{BR}Show<=>
-Show source code of this email.{BR}Source code<=>
-Save selected email to file.{BR}Save<=>
-Create a reply message to the sender.{BR}Reply<=>
-Delete selected emails.{BR}Delete<=>
-Delete marked emails.{BR}Delete marked emails<=>
-Unmark (undelete) selected emails.{BR}Unmark<=>
-Add sender to Black List.{BR}Block Sender<=>
-Add sender to White List.{BR}Trust Sender<=>
-Quit the application.{BR}Exit<=>நிரலைவிட்டு வெளியேறு.{BR}வெளியேறு
-Show or hide the toolbar.{BR}Toggle ToolBar<=>
-Show or hide the status bar.{BR}Toggle StatusBar<=>
-Enable\Disable the Tab view.{BR}Toggle Tab view<=>
-Hide messages that are marked for delete.{BR}Hide marked messages<=>
-Move marked messages to a separate "trash" tab.{BR}Enable trash tab<=>
-Change font.{BR}Font<=>
-Change font color.{BR}Font Color<=>
-Launch email client.{BR}Email Client<=>
-Import email accounts from Outlook Express.{BR}Import Accounts<=>
-Edit the rules.{BR}Rules<=>
-Add item to Rules list.{BR}Add To List<=>
-Edit list of trusted senders.{BR}WhiteList<=>
-Edit list of blocked senders.{BR}BlackList<=>
-Change program settings.{BR}Settings<=>
-Show Help Topics.{BR}Help<=>
-Check if a new version is available.{BR}Check for updates<=>
-Display program information, version number and copyright.{BR}About<=>
-Show the main window.{BR}Show<=>
-Enable AutoChecking.{BR}Enable<=>
-Suspend New Mail Notification Sound.{BR}Mute<=>
-Open the selected attachment.{BR}Open<=>
-Save the selected attachments.{BR}Save<=>
-Save all attachments.{BR}Save All<=>
-Change the window size.<=>
-Change the window position.<=>
-Reduce the window to an icon.<=>
-Enlarge the window to full size.<=>
-Close the active window.<=>
-Restore the window to normal size.<=>
-Toggle the current [PROTECTED] state of the selected messages.{BR}Toggle [PROTECTED]<=>
-Mark selected email as seen (read) on server.{BR}Mark As Seen on Server<=>
-Don't display this &message again.<=>
-
-# Message Window
-
-&Print...{TAB}Ctrl+P<=>
-&Close{TAB}Esc<=>
-&Edit<=>
-&Cut{TAB}Ctrl+X<=>
-C&opy{TAB}Ctrl+C<=>
-&Paste{TAB}Ctrl+V<=>
-&Find...{TAB}Ctrl+F<=>
-Find &Next{TAB}F3<=>
-Select &All{TAB}Ctrl+A<=>
-Print this email.{BR}Print<=>
-Delete this email.{BR}Delete<=>
-Close window.{BR}Close<=>
-Cut the selection and put it on the Clipboard.{BR}Cut<=>
-Copy the selection and put it on the Clipboard.{BR}Copy<=>
-Insert Clipboard contents.{BR}Paste<=>
-Find the specified text.{BR}Find<=>
-Find next occurence of specified text.{BR}Find next<=>
-Select the entire message.{BR}Select All<=>
-"{1}" not found.<=>
-&Open<=>
-&Save As...<=>
-Save &All...<=>
-This attachment can not be accessed anymore.<=>
-"{1}" is very likely to contain a virus, worm or any other sort of dangerous code!<=>
-Opening this file is therefore denied.<=>
-Do you really want to save this file to your hard disk?<=>
-These attachments are very likely to contain a virus, worm or any other sort of dangerous code!<=>
-Do you really want to save these files to your hard disk?<=>
-Please specify where to save the attachments.<=>
-The file "{1}" does already exist!{BR}Overwrite it?<=>
-Downloading email failed.{BR}Press Ctrl+F5 to update the email listing and try again.<=>
-Are you sure you want to delete this email?<=>
-Deleting email failed!<=>
-From:<=>
-Date:<=>
-To:<=>
-Subject:<=>
-Attach:<=>
-Protocol plugin not initialized correctly!<=>
-
-# PopMan Start
-
-Please start one instance only.<=>
-Windows socket init failed.<=>
-{1} Beta version has been updated successfully!<=>
-You have successfully updated to version {1} !<=>
-About PopMan<=>
-PopMan, Version {1}<=>
-Website:<=>
-Forum:<=>
-Check for updates<=>
-
-# Document
-
-Failed to initialize account {1}: No plugin available to provide protocol {2}!<=>
-The error log file "{1}" could not be created.<=>
-Checking {1}...<=>
-Email (*.eml)<=>
-Text (*.txt)<=>
-Unable to load mail system support.<=>
-Mail system DLL is invalid.<=>
-Unable to detect if a new version is available.<=>
-There is no update available.<=>
-Do you want to start the update wizard and download the latest version?<=>
-Deleting mail...<=>
-Marking mail as seen...<=>
-Downloading mail...<=>
-AutoCheck disabled<=>
-No messages<=>
-1 new message<=>
-{1} new messages<=>
-PopMan - New Mail<=>
-&Open PopMan<=>
-Check &Mail<=>
-&Cancel<=>ரத்து
-&Email Client<=>
-A&utoCheck Enabled<=>
-Mu&te Mode<=>
-O&ptions...<=>விருப்பங்கள்
-&About...<=>பற்றி
-E&xit<=>வெளியேறு
-{1} msgs. ({2} unread, {3} new){TAB}{4} KB<=>
-PopMan - Mail Info<=>
-1 message<=>
-{1} messages<=>
-1 unread message<=>
-{1} unread messages<=>
-in {1}<=>
-in {1} accounts<=>
-Show<=>
-Delete<=>
-Close<=>
-(last check: {1})<=>
-You are about to irrevocably delete all marked messages.<=>
-You have just marked a message for deletion. To unmark it, press the Ins keyboard button. To delete all marked messages, press F12 or click the appropriate toolbar button.<=>
-You can also delete selected messages immediately by pressing Shift+Del.<=>
-If you want to restore the traditional behaviour (delete all selected messages immediately), uncheck "{1}" in the options dialog.<=>
-Failed to add item to Rules list!<=>
-
-# Main View
-
-Separate account | All<=>
-Check accounts{TAB}F7<=>
-Join with tab<=>
-Rename tab{TAB}F2<=>
-Mark All Mails Read<=>
-Mark All Mails Unread<=>
-You have to add at least one account before you can switch to tab view.<=>
-Caption:<=>
-Please enter the caption of the tab:<=>
-Rename tab<=>
-Trash<=>
-Tab accounts:<=>
-
-# Rules
-
-Error while parsing rules file at line {1}!<=>
-The item is already contained in the list!<=>
-
-# Text View
-
-Copy Link Address<=>
+The file "{1}" doesn't exist!<=>"{1}" கோப்பு இல்லை!
+Sound (*.wav)<=>ஒலி (*.wav)
+Notify when new mail arrives<=>புதிய அஞ்சல் வரும் போது தெரிவிக்கவும்
+Always<=>எப்போதும்
+When AutoChecked or minimized<=>தானியங்கு சரிபார்ப்பு அல்லது சிறிதாக்கப்பட்ட போது
+Only when minimized<=>குறைக்கப்படும் போது மட்டுமே
+On new mail<=>புதிய மின்னஞ்சலில்
+Acoustic notification<=>ஒலியியல் அறிவிப்பு
+Sound:<=>ஒலி:
+&Test<=>&சோதனை
+Show PopMan window<=>PopMan சாளரத்தைக் காட்டு
+Show new mail tip<=>புதிய அஞ்சல் உதவிக்குறிப்பைக் காட்டு
+Limit tips to [PROTECTED] messages<=>[PROTECTED] செய்திகளுக்கான உதவிக்குறிப்புகளை வரம்பிடவும்
+Include sender and subject of new mails<=>அனுப்பியவர் மற்றும் புதிய அஞ்சல்களின் பொருள் 
+Use balloon tip<=>பலூன் முனை<=> பயன்படுத்தவும்
+Flash keyboard light:<=>ஃபிளாஷ் விசைப்பலகை ஒளி:
+Unread Messages<=>படிக்காத செய்திகள்
+Display unread messages in bold font<=>படிக்காத செய்திகளை தடிமனான எழுத்துருவில் காட்டவும்
+Preview Pane<=>முன்னோட்ட பலகம்
+Use the preview pane to quickly view a message without opening a separate window.<=>தனி சாளரத்தைத் திறக்காமல் செய்தியை விரைவாகப் பார்க்க முன்னோட்டப் பலகத்தைப் பயன்படுத்தவும்.
+Show preview pane<=>முன்னோட்டப் பலகத்தைக் காட்டு
+Be&low messages<=>குறைந்த செய்திகள்
+Be&side messages<=>இரு&பக்க செய்திகள்
+Use logging to record all data communication between PopMan and the email server.<=>PopMan மற்றும் மின்னஞ்சல் சேவையகத்திற்கு இடையேயான அனைத்து தரவுத் தொடர்பையும் பதிவு செய்ய உள்நுழைவைப் பயன்படுத்தவும்.
+Enable logging<=>பதிவு செய்வதை இயக்கு
+Only log compact mail info instead of entire data traffic<=>முழு தரவு போக்குவரத்திற்கும் பதிலாக சிறிய அஞ்சல் தகவலை மட்டும் பதிவு செய்யவும்
+Log file size:<=>பதிவு கோப்பு அளவு:
+KB<=>KB
+Enable logging of applied rules<=>பயன்படுத்தப்பட்ட விதிகளை பதிவு செய்வதை இயக்கு
+Location of the log file "PopManLogFile.log":<=>"PopManLogFile.log" பதிவு கோப்பின் இருப்பிடம்:
+Use dial-up networking<=>டயல்-அப் நெட்டூவைப் பயன்படுத்தவும்
+Launch PopMan on Windows startup<=>விண்டோஸ் தொடக்கத்தில் பாப்மேனைத் தொடங்கவும்
+Check for new mail on startup<=>தொடக்கத்தில் புதிய அஞ்சலைப் பார்க்கவும்
+First wait<=>முதலில் காத்திருங்கள்
+seconds<=>வினாடிகள்
+X button hides to tray<=>X பொத்தான் தட்டில் மறைக்கிறது
+Min button hides to tray<=>குறைந்தபட்ச பொத்தான் தட்டில் மறைக்கிறது
+Delete confirmation in main window<=>பிரதான சாளரத்தில் உறுதிப்படுத்தலை நீக்கவும்
+Delete confirmation in preview pane and message window<=>முன்னோட்ட பலகம் மற்றும் செய்தி சாளரத்தில் உறுதிப்படுத்தலை நீக்கவும்
+Delete command marks message for deletion<=>நீக்குவதற்கான கட்டளை குறிகள் செய்தியை நீக்கு
+Enable password protection:<=>கடவுச்சொல் பாதுகாப்பை இயக்கு:
+AutoCheck only while minimized<=>சிறிதாக்கப்பட்ட போது மட்டும் தானாகச் சரிபார்க்கவும்
+Don't check between:<=>இடையில் பார்க்க வேண்டாம்:
+and<=>மற்றும்
+Enable custom AutoCheck interval per account:<=>ஒவ்வொரு கணக்கிற்கும் தனிப்பயன் தானியங்குச் சரிபார்ப்பு இடைவெளியை இயக்கு:
+Interval<=>இடைவெளி
+Custom<=>தனிப்பயன்
+Executable (*.exe)<=>இயங்கக்கூடிய (*.exe)
+Hide PopMan to tray<=>தட்டுக்கு பாப்மேனை மறை
+Quit PopMan<=>பாப்மேனில் இருந்து வெளியேறு
+Email client:<=>மின்னஞ்சல் கிளையண்ட்:
