@@ -287,7 +287,7 @@ Received<=>பெறப்பட்டது
 Attachment<=>இணைப்பு
 Sent<=>அனுப்பப்பட்டது
 Priority<=>முன்னுரிமை
-UserAgent<=>UserAgent
+UserAgent<=>பயனர்Agent
 Rules<=>விதிகள்
 High<=>உயர்
 Low<=>குறைந்த
@@ -295,17 +295,17 @@ Normal<=>இயல்பான
 Are you sure you want to delete the selected email?<=>தேர்ந்தெடுத்த மின்னஞ்சலை நிச்சயமாக நீக்க விரும்புகிறீர்களா?
 Are you sure you want to delete the {1} selected emails?<=>தேர்ந்தெடுக்கப்பட்ட {1} மின்னஞ்சல்களை நிச்சயமாக நீக்க விரும்புகிறீர்களா?
 &Open...{TAB}Ctrl+O<=>&திற...{TAB}Ctrl+O
-Sou&rce...<=>Sou&rce...
+Sou&rce...<=>&மூலம்...
 &Save As...{TAB}Ctrl+S<=>&இவ்வாறு சேமி...{TAB}Ctrl+S
 Repl&y To Sender{TAB}Ctrl+R<=>அனுப்புநருக்குப் பதிலளிக்கவும்{TAB}Ctrl+R
 &Trust Sender<=>அனுப்புநரை நம்பு
 &Block Sender<=>அனுப்புபவரைத் தடு
-&Delete{TAB}Del<=>&நீக்கு{TAB}டெல்
+&Delete{TAB}Del<=>&நீக்கு{TAB}Del
 &Unmark{TAB}Ins<=>&குறிநீக்கு{TAB}Ins
-To&ggle [PROTECTED] State{TAB}Ctrl+T<=>[PROTECTED] நிலையை{TAB}Ctrl+T<=> செய்ய
+To&ggle [PROTECTED] State{TAB}Ctrl+T<=>[பாதுகாக்கப்பட்டது] நிலையை{TAB}Ctrl+T<=> செய்ய
 Mark As Seen On Server{TAB}F8<=>சேவையகத்தில் பார்த்ததாகக் குறி{TAB}F8
 This will add the following email addresses to the Black List:<=>இது பின்வரும் மின்னஞ்சல் முகவரிகளை கருப்பு பட்டியலில் சேர்க்கும்:
-Note: All future emails from senders on the Black List will be deleted automatically!<=>குறிப்பு: பிளாக் லிஸ்டில் உள்ள அனுப்புநர்களிடமிருந்து வரும் அனைத்து மின்னஞ்சல்களும் தானாகவே நீக்கப்படும்!
+Note: All future emails from senders on the Black List will be deleted automatically!<=>குறிப்பு: கருப்புப்பட்டியலில்  உள்ள அனுப்புநர்களிடமிருந்து வரும் அனைத்து மின்னஞ்சல்களும் தானாகவே நீக்கப்படும்!
 This will add the following email addresses to the White List:<=>இது பின்வரும் மின்னஞ்சல் முகவரிகளை வெள்ளைப்பட்டியலில் சேர்க்கும்:
 
 # முதன்மை சாளரம்
